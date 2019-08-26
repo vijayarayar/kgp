@@ -20,7 +20,7 @@
 	<img src="images/career1.svg" class="banner-svg1 " alt="">
 	</div>
 	<div class="about-slide-info px-3 text-center col-md-4">
-<a href="{{ url('/') }}" class="logo">KGP <sub>TECH</sub> </a>
+<!--<a href="{{ url('/') }}" class="logo">KGP <sub>TECH</sub> </a>-->
 <h4>
 Join with our team
 </h4>

@@ -784,6 +784,7 @@ padding: 50px 0px;
     padding: 45px !important;
     border-radius: 20px;
     box-shadow: 0 0 38px -9px #988989;
+    min-height: 230px;
 }
 .innerpage h2{text-align: left !important;}
 .pro-info h4 {
@@ -997,8 +998,8 @@ padding: 50px 0px;
 }
 @media only screen and (max-width: 760px){
 .da-slide h2{
-	font-size: 20px !important;
-	top: 100px !important;
+	font-size: 17px !important;
+	top: 109px !important;
 }	
 .da-slide p{font-size: 15px !important;}
 .da-slider{height: 500px !important;}
@@ -1015,6 +1016,7 @@ padding: 50px 0px;
 .vc_custom_1510158934279 , .vc_custom_1510158945675{padding-top :20px ; padding-left:20px !important; border-left-width: 0px !important;}
 .banner-svg2, .banner-svg1{display: none;}
 .da-img img{width: 100%;}
+.logo-img img{width: 185px !important;height: 85px !important;}
 .about-slide-info{float: none !important; padding: 30px !important;}
 }
 @media only screen and (max-width: 1920px){

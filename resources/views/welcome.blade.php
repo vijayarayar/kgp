@@ -607,7 +607,7 @@ Why Choose Us?
 </div>
 <div class="overview-content" style="text-align:center;">
 <h1 class="title">
-How we works?
+How we work
 </h1>
 	<img src="images/how-works.svg" width="100%">
 </div>

@@ -20,12 +20,12 @@
 	<img src="images/abt-banner-1.svg" class="banner-svg1 " alt="">
 	</div>
 	<div class="about-slide-info px-3 text-center col-md-4">
-<a href="{{ url('/') }}" class="logo">KGP <sub>TECH</sub> </a>
+<!--<a href="{{ url('/') }}" class="logo">KGP <sub>TECH</sub> </a>-->
 <h4>
 about us
 </h4>
 <p>
-We Are The Team Of Problem Solvers With The Believe To Craft Future
+We Are A Team Of Problem Solvers With The Believe To Craft Future
 </p>
 </div>
 <div class="col-md-4">
@@ -40,7 +40,8 @@ about our company
 </h1>
 <div class="overview-info">
 <p>
-A Global Leader in Business process and Optimizing customer experience Life Cycle. We have been in the servicing business for 12+ years and counting. We exist to simplify the lives of businesses by helping to create greater operational accuracy and new efficiencies in everyday tasks. KGP Combines technology-powered services in Automation, Analytics, AWS cloud services, Comprehensive data management services and Testing.
+A strive in Business process and Optimizing customer experience Life Cycle. We have been servicing businesses for more than 12 years. We exist to simplify the lives of businesses by helping to create greater operational accuracy and new efficiencies in everyday tasks. KGP Combines technology-powered services in Automation, Analytics, AWS cloud services, Comprehensive data management services and Testing.
+
 
 
 </p>
@@ -56,9 +57,7 @@ Our Mission
 </h1>
 <div class="overview-info">
 <p>
-Our mission is to enhance the business growth of our customers. We provide high-quality products and services. Customer satisfaction with the best service is our top priority. We focused to meet the expectation of our customers at all times. We always guide our customers for success.
-
-We believed in teamwork and supporting employees with latest and trending technologies. So that our team will be in the best position to support our customers . This helps us to keep existing clients and expand new customers.
+Enhance the business growth of our. We are focused to meet the expectation of our customers at all times customers and customer satisfaction is our top priority. We believe in teamwork and supporting employees with latest and trending technologies, so that our team will be in the best position to support our customers.
 
 
 </p>

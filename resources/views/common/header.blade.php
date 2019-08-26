@@ -3,7 +3,7 @@
 <div class="container">
 <div class="header-left">
 	<a href="{{ url('/') }}" class="logo-img">
-<img width="150px;" src="images/logo-img-old.png">
+<img style="width:300px;height:88px;" src="images/logo-img-old.png">
 	 </a>
 </div>
 <div class="header-right">

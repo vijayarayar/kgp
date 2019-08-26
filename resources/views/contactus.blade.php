@@ -48,6 +48,8 @@ KGP Techsolutions LLP <br>
 Nungambakkam High Road,<br>
 Nungambakkam,<br>
 Chennai - 600034<br>
+Tamilnadu<br>
+India.<br>
 </p>
 <br>
 
@@ -55,7 +57,7 @@ Chennai - 600034<br>
 <p class="col-md-6 col-sm-6">info@kgptechsolutions.com<br></p>
 <br>
 <p class="col-md-4 col-sm-5 xl-none"> Contact Number </p><p class="col-md-1 col-sm-1 xl-none"> : </p>
- <p class="col-md-6 col-sm-6">044-42950004<br>
+ <p class="col-md-6 col-sm-6">044-48555188<br>
 
 
 </p>
