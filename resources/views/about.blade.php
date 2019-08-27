@@ -25,7 +25,7 @@
 about us
 </h4>
 <p>
-We Are A Team Of Problem Solvers With The Believe To Craft Future
+We Are A Team Of Problem Solvers
 </p>
 </div>
 <div class="col-md-4">
@@ -40,7 +40,7 @@ about our company
 </h1>
 <div class="overview-info">
 <p>
-A strive in Business process and Optimizing customer experience Life Cycle. We have been servicing businesses for more than 12 years. We exist to simplify the lives of businesses by helping to create greater operational accuracy and new efficiencies in everyday tasks. KGP Combines technology-powered services in Automation, Analytics, AWS cloud services, Comprehensive data management services and Testing.
+We strive in Business process and Optimizing customer experience Life Cycle. We have been servicing businesses for more than 12 years. We exist to simplify the lives of businesses by helping to create greater operational accuracy and new efficiencies in everyday tasks. KGP Combines technology-powered services in Automation, Analytics, AWS cloud services, Comprehensive data management services and Testing.
 
 
 
@@ -57,7 +57,7 @@ Our Mission
 </h1>
 <div class="overview-info">
 <p>
-Enhance the business growth of our. We are focused to meet the expectation of our customers at all times customers and customer satisfaction is our top priority. We believe in teamwork and supporting employees with latest and trending technologies, so that our team will be in the best position to support our customers.
+Enhance the business growth and expectations of our. We believe in teamwork and supporting employees with latest and trending technologies, so that our team will be in the best position to support our customers.
 
 
 </p>
@@ -71,9 +71,7 @@ Our Vission
 </h1>
 <div class="overview-info">
 <p>
-Our ultimate aim is to become the best provider of all IT services and supports in the global market . We achieve it with innovation and high quality service.
-
-We win recurring customers business with latest technologies, competitive prices, and agile method. We expect our customers to recognise and respect us as the specialist provider of all modeling services.
+Our aim is to become the best provider of IT services and we achieve that with innovation and high quality service. We win recurring customers business with latest technologies, competitive prices, and agile method. 
 
 
 </p>

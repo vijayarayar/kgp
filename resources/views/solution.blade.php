@@ -24,15 +24,15 @@ Why to choose KGP?
 </h1>
 <div class="overview-info">
 <p>
-We offer comprehensive AWS Cloud Consulting services to help out in creating a Cloud Adoption platform and needs of the migration strategy, deployment requirements for the applications to the Cloud, and automate the Cloud Infrastructure.
+We offer comprehensive AWS Cloud Consulting services to help out in creating a Cloud Adoption platform and needs of the migration strategy, deployment requirements to the Cloud and finally automate the Cloud Infrastructure.
 </p>
  <br>
 <p>
-We manage all types of requirements as sighted organizations scaling from startups to enterprises net worth. The stragegically defined AWS solution helps and suffices all your business goals – objectives as Amazon is offering the broad spectrum of their enormous service packages.
+We manage all types of requirements as sighted, organizations scaling from startups to enterprises net worth. The strategically defined AWS solution helps and suffices all your business goals – objectives as Amazon is offering the broad spectrum of their enormous service packages.
 </p>
 <br>
 <p>
-AWS provides you an elastic IT infrastructure services (complete flexibility in terms of infrastructure plans, their configuration, and consumption – usage statistics) as per the demands of your business. With the minimal (lowest) cost and efforts as required, you can move to the AWS cloud infrastructure. It reduces capital expenses, minimizes cost for the server support and administrative costs however still retain the performance, security and reliability needs for your business demands.
+AWS provides you an elastic IT infrastructure services (complete flexibility in terms of infrastructure plans, their configuration, and consumption – usage statistics) as per the demands of your business. With the minimal (lowest) cost and efforts as required, you can move to the AWS cloud infrastructure. It reduces capital expenses, minimizes cost for the server support and administrative costs however, still retain the performance, security and reliability needs for your business demands.
 
 
 </p>
@@ -52,7 +52,7 @@ Solutions we offer
 Data Management
 </h4>
 <p>
-We are managing scalable, cloud-native database platforms using MySQL, MSSQL and PostgresSQL whcihc enables you to make better business decisions based on uncommon insights into historical data’s and advanced predictive forecasts for all kind of data’s.
+We are managing scalable, cloud-native database platforms using MySQL, MSSQL and PostgresSQL which enables you to make better business decisions based on uncommon insights into historical data and advanced predictive forecasts for all kind of data.
 </p>
 </div>
 </div>
@@ -62,7 +62,7 @@ We are managing scalable, cloud-native database platforms using MySQL, MSSQL and
 Automation
 </h4>
 <p>
-Our expertise in the techniques are Python, Perl, Shell and MySQL , coupled with our in-depth knowledge of industry data empowers you with power predictive capabilities and valuable insight.
+Our expertise in techniques are Python, Perl, Java, Shell and MySQL , coupled with our in-depth knowledge of industry data empowers you with power predictive capabilities and valuable insight.
 </p>
 </div>
 </div>
@@ -84,7 +84,7 @@ We manage entire process of capturing raw data, computer or electronic data proc
 Cloud/System Administration
 </h4>
 <p>
-We provide design, delivery and daily operational support of compute, storage ,virtual network infrastructure and governance service using cloud platforms like AWS and IBM also with Dedicated servers.
+We provide design, delivery and daily operational support of compute, storage, virtual network infrastructure and governance service using cloud platforms like AWS and IBM.
 </p>
 </div>
 </div>
